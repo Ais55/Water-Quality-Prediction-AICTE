@@ -1,1 +1,2 @@
-# Water-Quality-Prediction-AICTE
+# Week1
+Water Quality Prediction -Week 1
